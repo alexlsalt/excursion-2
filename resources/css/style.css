@@ -12,9 +12,33 @@ body {
   font-white: normal;
 }
 
+.second-heading {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.subtext {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
 
 /* Links */
 
 .aquamarine {
   color: aquamarine;
+}
+
+
+/* Copyright */
+
+.copyright {
+  color: gray;
+  font-family: Verdana;
+  font-size: 21px;
+  text-align: right;
+  font-weight: normal;
 }
